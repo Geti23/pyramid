@@ -16,9 +16,3 @@ class Colors {
 	static final Color3f DARK_GRAY = new Color3f(new Color(0xFF303030));
         static final Color3f DARK_RED = new Color3f(new Color(0x880000));
 }
-
-
-
-
-
-
